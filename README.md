@@ -12,5 +12,5 @@ The project proposal pdf and final project report are below.
 * The final project report: Report.pdf
 
 Additionally you will find: 
-* COVID-19 Dataset sample - subsection of the data used within the project so you don't need to download the full dataset. 
+* COVID-19 Dataset sample - subsection of the data used within the project (data_covid_sample.csv.zip) so you don't need to download the full dataset. 
 The full dataset can be downloaded from [here](https://www.datosabiertos.gob.pe/dataset/casos-positivos-por-covid-19-ministerio-de-salud-minsa). 
